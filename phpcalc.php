@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>  
 <html>
 <head>
- <title>Add ABCD Button Textfile PHP</title>
+ <title> phpcalc PHP</title>
  <link rel="shortcut icon" href="favicon.ico" />
  <link href="styles.css" rel="stylesheet" />
  
